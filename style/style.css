@@ -13,6 +13,9 @@ body {
 .header.active{
     background: url(../img/header/backnike.webp) no-repeat center/ cover;
 }
+body.active{
+    overflow: hidden;
+}
 .title {
     font-size: 44px;
     font-weight: 700;
