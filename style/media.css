@@ -125,6 +125,9 @@
     .header__btn-media {
         display: inline-block;
     }
+    .header__btn {
+        display: none;
+    }
     .header__title {
         font-size: 42px;
     }
