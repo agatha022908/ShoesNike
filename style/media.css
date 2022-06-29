@@ -122,9 +122,6 @@
     .header__list.active {
         right: 0;
     }
-    .header__btn {
-        display: none;
-    }
     .header__btn-media {
         display: inline-block;
     }
